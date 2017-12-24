@@ -13,7 +13,7 @@ public class Power {
 		}
 		else if(n>1&&p==1)
 		{
-			System.out.println("0");
+			System.out.println(n);
 		}
 		else
 		{
