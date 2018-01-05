@@ -4,7 +4,7 @@ class sample
 {
 public static void main(String args[])
 {
-    String inputStr;
+    String Str;
         int v = 0;
         int n = 0;
         Scanner sc = new Scanner(System.in);
